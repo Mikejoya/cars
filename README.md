@@ -13,7 +13,7 @@ Este es un ejemplo de una página web simple creada utilizando HTML y CSS. La p�
 
 ## Demostración
 
-Puedes ver una demostración de la página en línea [aquí](https://mikejoya.github.io/cars/src/) (inserta aquí el enlace a la página web).
+Puedes ver una demostración de la página en línea [aquí](https://mikejoya.github.io/cars/src/).
 
 ## Captura de Pantalla
 
