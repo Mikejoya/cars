@@ -13,7 +13,7 @@ Este es un ejemplo de una página web simple creada utilizando HTML y CSS. La p�
 
 ## Demostración
 
-Puedes ver una demostración de la página en línea [aquí](#) (inserta aquí el enlace a la página web).
+Puedes ver una demostración de la página en línea [aquí](https://mikejoya.github.io/cars/src/) (inserta aquí el enlace a la página web).
 
 ## Captura de Pantalla
 
@@ -28,20 +28,20 @@ Puedes ver una demostración de la página en línea [aquí](#) (inserta aquí e
 
 El proyecto está estructurado de la siguiente manera:
 
-├cars
-│ └──src
-│ ├──assest/
-│ ├──style.css
-│ ├──about.html
-│ ├──carRentals.html
-│ ├──carrers.html
-│ ├──contactUs.html
-│ ├──events.html
-│ ├──index.html
-│ ├──inventory.html
-│ ├──services.html
-├── LISENCE
-└──README.md
+├── cars
+│ └── src
+│ ├── assets
+│ ├── style.css
+│ ├── about.html
+│ ├── carRentals.html
+│ ├── careers.html
+│ ├── contactUs.html
+│ ├── events.html
+│ ├── index.html
+│ ├── inventory.html
+│ └── services.html
+├── LICENSE
+└── README.md
 
 ## Contribuir
 
@@ -49,4 +49,4 @@ Si deseas contribuir a este proyecto, ¡eres bienvenido! Puedes enviar un pull r
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está bajo la Licencia MIT. Consulta el archivo [LICENSE](https://mit-license.org/) para más detalles.
