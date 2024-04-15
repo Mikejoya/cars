@@ -28,20 +28,7 @@ Puedes ver una demostración de la página en línea [aquí](https://mikejoya.gi
 
 El proyecto está estructurado de la siguiente manera:
 
-├── cars
-│ └── src
-│ ├── assets
-│ ├── style.css
-│ ├── about.html
-│ ├── carRentals.html
-│ ├── careers.html
-│ ├── contactUs.html
-│ ├── events.html
-│ ├── index.html
-│ ├── inventory.html
-│ └── services.html
-├── LICENSE
-└── README.md
+![Captura de Pantalla de la organizacion archivos](organization.png)
 
 ## Contribuir
 
